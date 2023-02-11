@@ -1,0 +1,25 @@
+.navigation {
+    background-color: rgb(3, 3, 70);
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    display: flex;
+    justify-content: end;
+    padding-right: 5%;
+}
+
+.links {
+    width: 15rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.links li {
+    list-style: none;
+}
+
+.links a {
+    color: white;
+    font-family: sans-serif;
+}
