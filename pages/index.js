@@ -7,9 +7,10 @@ export default function Home() {
     <Head>
       <title>Nextjs Tut</title>
     </Head>
-   <div>
-      <Navbar />
-   </div>
+    <div>
+        <Navbar />
+        this is home page
+    </div>
     </>
   )
 }
